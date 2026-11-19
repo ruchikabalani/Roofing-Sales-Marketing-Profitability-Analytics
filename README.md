@@ -81,6 +81,6 @@ July generated approximately **$304K in revenue** and **$112K in gross profit**.
     └── 06_profitability_analysis.sql
 ```
 
-**[Read the Business Insights & Strategic Recommendations report](Roofing_Business_Insights_Report_Revised.pdf)**
+**[Read the Business Insights & Strategic Recommendations report](Roofing_Business_Insights_Report.pdf)**
 
 The SQL files document the analyses and the three views used to prepare Tableau-ready datasets. Source tables are `roofing.leads`, `roofing.projects`, and `roofing.marketing_spend` in a PostgreSQL database.

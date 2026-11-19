@@ -1,0 +1,801 @@
+"lead_id","inquiry_date","marketing_channel","sales_stage","conversion_date","zip_code","converted_flag","days_to_conversion"
+1,"2025-07-15","Google Ads","Estimate Sent",NULL,"63122",0,NULL
+2,"2025-10-23","Direct Mail","Lost",NULL,"63119",0,NULL
+3,"2025-10-23","Google Ads","Won","2025-10-26","63122",1,3
+4,"2025-12-20","Organic Search","Estimate Sent",NULL,"63123",0,NULL
+5,"2025-08-10","Direct Mail","Lost",NULL,"63119",0,NULL
+6,"2025-07-04","Organic Search","Won","2025-08-17","63123",1,44
+7,"2025-06-12","Google Ads","Won","2025-07-20","63129",1,38
+8,"2025-02-17","Referrals","New",NULL,"63122",0,NULL
+9,"2025-04-28","Google Ads","Won","2025-05-29","63119",1,31
+10,"2025-08-26","Google Ads","Won","2025-09-01","63119",1,6
+11,"2025-12-05","Organic Search","Lost",NULL,"63119",0,NULL
+12,"2025-02-13","Organic Search","Estimate Sent",NULL,"63129",0,NULL
+13,"2025-04-23","Referrals","Contacted",NULL,"63122",0,NULL
+14,"2025-08-19","Google Ads","New",NULL,"63119",0,NULL
+15,"2025-05-08","Google Ads","Lost",NULL,"63125",0,NULL
+16,"2025-07-14","Organic Search","Won","2025-08-13","63119",1,30
+17,"2025-05-04","Google Ads","Won","2025-06-11","63125",1,38
+18,"2025-08-17","Referrals","New",NULL,"63122",0,NULL
+19,"2025-07-21","Direct Mail","Estimate Sent",NULL,"63123",0,NULL
+20,"2025-04-02","Referrals","Contacted",NULL,"63125",0,NULL
+21,"2025-09-23","Organic Search","Won","2025-09-29","63123",1,6
+22,"2025-06-07","Google Ads","Won","2025-07-03","63125",1,26
+23,"2025-07-26","Organic Search","Lost",NULL,"63125",0,NULL
+24,"2025-08-29","Referrals","Won","2025-09-11","63122",1,13
+25,"2025-11-09","Organic Search","Contacted",NULL,"63123",0,NULL
+26,"2025-11-19","Google Ads","Lost",NULL,"63116",0,NULL
+27,"2025-10-24","Google Ads","Lost",NULL,"63125",0,NULL
+28,"2025-09-21","Referrals","Won","2025-10-30","63125",1,39
+29,"2025-09-27","Organic Search","Lost",NULL,"63125",0,NULL
+30,"2025-06-17","Referrals","New",NULL,"63125",0,NULL
+31,"2025-10-03","Organic Search","Won","2025-10-16","63116",1,13
+32,"2025-06-08","Google Ads","Lost",NULL,"63116",0,NULL
+33,"2025-12-09","Referrals","New",NULL,"63129",0,NULL
+34,"2025-02-13","Google Ads","Lost",NULL,"63122",0,NULL
+35,"2025-03-30","Google Ads","Lost",NULL,"63123",0,NULL
+36,"2025-06-11","Google Ads","Lost",NULL,"63123",0,NULL
+37,"2025-04-10","Google Ads","Estimate Sent",NULL,"63119",0,NULL
+38,"2025-03-02","Direct Mail","Estimate Sent",NULL,"63116",0,NULL
+39,"2025-09-27","Organic Search","Lost",NULL,"63129",0,NULL
+40,"2025-08-30","Organic Search","Lost",NULL,"63119",0,NULL
+41,"2025-05-10","Organic Search","Contacted",NULL,"63125",0,NULL
+42,"2025-12-21","Google Ads","Estimate Sent",NULL,"63123",0,NULL
+43,"2025-05-22","Referrals","Won","2025-07-05","63116",1,44
+44,"2025-05-16","Direct Mail","Lost",NULL,"63125",0,NULL
+45,"2025-10-08","Organic Search","Won","2025-11-20","63129",1,43
+46,"2025-04-24","Google Ads","Won","2025-05-14","63125",1,20
+47,"2025-08-30","Direct Mail","Estimate Sent",NULL,"63119",0,NULL
+48,"2025-03-03","Organic Search","Lost",NULL,"63119",0,NULL
+49,"2025-12-19","Google Ads","Contacted",NULL,"63123",0,NULL
+50,"2025-02-14","Direct Mail","New",NULL,"63122",0,NULL
+51,"2025-07-18","Google Ads","Won","2025-08-28","63125",1,41
+52,"2025-07-27","Referrals","Lost",NULL,"63125",0,NULL
+53,"2025-02-14","Direct Mail","New",NULL,"63119",0,NULL
+54,"2025-12-21","Google Ads","Estimate Sent",NULL,"63116",0,NULL
+55,"2025-05-19","Referrals","Lost",NULL,"63129",0,NULL
+56,"2025-03-24","Google Ads","Lost",NULL,"63116",0,NULL
+57,"2025-06-16","Organic Search","Lost",NULL,"63116",0,NULL
+58,"2025-03-17","Google Ads","Estimate Sent",NULL,"63123",0,NULL
+59,"2025-02-11","Google Ads","Lost",NULL,"63116",0,NULL
+60,"2025-11-28","Google Ads","Won","2025-12-17","63116",1,19
+61,"2025-02-04","Google Ads","New",NULL,"63116",0,NULL
+62,"2025-09-02","Google Ads","Won","2025-10-06","63122",1,34
+63,"2025-06-05","Google Ads","Won","2025-07-05","63129",1,30
+64,"2025-06-13","Google Ads","Lost",NULL,"63116",0,NULL
+65,"2025-05-28","Google Ads","Won","2025-06-20","63129",1,23
+66,"2025-12-10","Organic Search","Lost",NULL,"63119",0,NULL
+67,"2025-09-15","Referrals","Contacted",NULL,"63129",0,NULL
+68,"2025-07-27","Organic Search","Lost",NULL,"63122",0,NULL
+69,"2025-11-01","Google Ads","Estimate Sent",NULL,"63122",0,NULL
+70,"2025-05-01","Organic Search","Lost",NULL,"63122",0,NULL
+71,"2025-01-18","Referrals","Lost",NULL,"63116",0,NULL
+72,"2025-04-05","Organic Search","Lost",NULL,"63116",0,NULL
+73,"2025-10-22","Organic Search","Lost",NULL,"63122",0,NULL
+74,"2025-01-26","Referrals","New",NULL,"63129",0,NULL
+75,"2025-12-10","Referrals","Estimate Sent",NULL,"63123",0,NULL
+76,"2025-05-02","Organic Search","Lost",NULL,"63129",0,NULL
+77,"2025-03-17","Google Ads","Won","2025-04-10","63119",1,24
+78,"2025-05-09","Google Ads","Estimate Sent",NULL,"63125",0,NULL
+79,"2025-04-15","Google Ads","Lost",NULL,"63123",0,NULL
+80,"2025-12-28","Direct Mail","Estimate Sent",NULL,"63119",0,NULL
+81,"2025-11-08","Organic Search","Estimate Sent",NULL,"63122",0,NULL
+82,"2025-12-05","Referrals","Lost",NULL,"63119",0,NULL
+83,"2025-03-09","Referrals","Won","2025-03-24","63119",1,15
+84,"2025-03-11","Google Ads","Lost",NULL,"63123",0,NULL
+85,"2025-10-03","Google Ads","Lost",NULL,"63116",0,NULL
+86,"2025-05-13","Google Ads","Won","2025-06-01","63122",1,19
+87,"2025-01-01","Google Ads","Contacted",NULL,"63125",0,NULL
+88,"2025-09-24","Referrals","Won","2025-09-27","63119",1,3
+89,"2025-11-24","Organic Search","Lost",NULL,"63116",0,NULL
+90,"2025-11-10","Google Ads","Contacted",NULL,"63129",0,NULL
+91,"2025-09-16","Google Ads","Won","2025-10-28","63123",1,42
+92,"2025-05-13","Google Ads","Estimate Sent",NULL,"63123",0,NULL
+93,"2025-08-26","Organic Search","Estimate Sent",NULL,"63116",0,NULL
+94,"2025-11-06","Organic Search","Lost",NULL,"63119",0,NULL
+95,"2025-11-03","Direct Mail","Lost",NULL,"63125",0,NULL
+96,"2025-04-25","Organic Search","Contacted",NULL,"63125",0,NULL
+97,"2025-11-10","Organic Search","Estimate Sent",NULL,"63125",0,NULL
+98,"2025-01-07","Referrals","Won","2025-01-25","63122",1,18
+99,"2025-06-21","Google Ads","Estimate Sent",NULL,"63129",0,NULL
+100,"2025-01-30","Organic Search","Estimate Sent",NULL,"63129",0,NULL
+101,"2025-07-20","Organic Search","Lost",NULL,"63116",0,NULL
+102,"2025-04-21","Referrals","Lost",NULL,"63122",0,NULL
+103,"2025-09-22","Direct Mail","Lost",NULL,"63122",0,NULL
+104,"2025-09-09","Referrals","Lost",NULL,"63122",0,NULL
+105,"2025-01-24","Organic Search","Contacted",NULL,"63119",0,NULL
+106,"2025-08-01","Referrals","Estimate Sent",NULL,"63123",0,NULL
+107,"2025-10-12","Direct Mail","Lost",NULL,"63119",0,NULL
+108,"2025-11-26","Google Ads","Estimate Sent",NULL,"63116",0,NULL
+109,"2025-04-09","Direct Mail","Estimate Sent",NULL,"63129",0,NULL
+110,"2025-08-09","Organic Search","Lost",NULL,"63125",0,NULL
+111,"2025-02-26","Direct Mail","Estimate Sent",NULL,"63122",0,NULL
+112,"2025-06-29","Referrals","Lost",NULL,"63129",0,NULL
+113,"2025-12-27","Google Ads","Contacted",NULL,"63119",0,NULL
+114,"2025-04-22","Referrals","Won","2025-05-19","63116",1,27
+115,"2025-07-08","Organic Search","Won","2025-07-15","63119",1,7
+116,"2025-04-25","Direct Mail","Estimate Sent",NULL,"63122",0,NULL
+117,"2025-12-19","Referrals","Lost",NULL,"63129",0,NULL
+118,"2025-08-05","Google Ads","Lost",NULL,"63123",0,NULL
+119,"2025-04-26","Google Ads","Contacted",NULL,"63125",0,NULL
+120,"2025-07-12","Google Ads","Contacted",NULL,"63123",0,NULL
+121,"2025-07-14","Referrals","Contacted",NULL,"63123",0,NULL
+122,"2025-03-20","Organic Search","Contacted",NULL,"63125",0,NULL
+123,"2025-03-09","Organic Search","Estimate Sent",NULL,"63119",0,NULL
+124,"2025-05-02","Direct Mail","New",NULL,"63122",0,NULL
+125,"2025-05-03","Referrals","Contacted",NULL,"63129",0,NULL
+126,"2025-08-20","Google Ads","Lost",NULL,"63119",0,NULL
+127,"2025-05-31","Referrals","Estimate Sent",NULL,"63129",0,NULL
+128,"2025-08-10","Direct Mail","Contacted",NULL,"63119",0,NULL
+129,"2025-01-08","Organic Search","Won","2025-01-22","63129",1,14
+130,"2025-04-01","Organic Search","Lost",NULL,"63129",0,NULL
+131,"2025-03-01","Referrals","New",NULL,"63125",0,NULL
+132,"2025-03-14","Organic Search","Lost",NULL,"63116",0,NULL
+133,"2025-06-19","Direct Mail","Contacted",NULL,"63129",0,NULL
+134,"2025-03-21","Organic Search","Contacted",NULL,"63129",0,NULL
+135,"2025-08-17","Referrals","Estimate Sent",NULL,"63122",0,NULL
+136,"2025-01-30","Google Ads","New",NULL,"63125",0,NULL
+137,"2025-03-02","Organic Search","New",NULL,"63122",0,NULL
+138,"2025-08-20","Direct Mail","Won","2025-09-19","63122",1,30
+139,"2025-03-04","Direct Mail","Won","2025-04-01","63122",1,28
+140,"2025-01-29","Referrals","Won","2025-02-06","63129",1,8
+141,"2025-07-12","Google Ads","Won","2025-08-13","63116",1,32
+142,"2025-07-12","Organic Search","Contacted",NULL,"63122",0,NULL
+143,"2025-10-16","Organic Search","Won","2025-10-19","63119",1,3
+144,"2025-01-01","Google Ads","Lost",NULL,"63123",0,NULL
+145,"2025-05-08","Referrals","New",NULL,"63122",0,NULL
+146,"2025-11-29","Google Ads","Lost",NULL,"63116",0,NULL
+147,"2025-04-16","Google Ads","Lost",NULL,"63129",0,NULL
+148,"2025-06-23","Referrals","Won","2025-07-13","63123",1,20
+149,"2025-01-27","Referrals","Contacted",NULL,"63116",0,NULL
+150,"2025-11-16","Google Ads","Lost",NULL,"63129",0,NULL
+151,"2025-01-19","Organic Search","New",NULL,"63123",0,NULL
+152,"2025-11-25","Referrals","Won","2025-11-29","63116",1,4
+153,"2025-10-01","Google Ads","Won","2025-10-21","63116",1,20
+154,"2025-10-13","Google Ads","Contacted",NULL,"63123",0,NULL
+155,"2025-06-23","Google Ads","Lost",NULL,"63125",0,NULL
+156,"2025-02-26","Referrals","Estimate Sent",NULL,"63119",0,NULL
+157,"2025-06-19","Organic Search","Won","2025-06-23","63123",1,4
+158,"2025-09-28","Organic Search","Contacted",NULL,"63122",0,NULL
+159,"2025-04-24","Organic Search","New",NULL,"63123",0,NULL
+160,"2025-04-27","Organic Search","New",NULL,"63129",0,NULL
+161,"2025-08-08","Google Ads","Lost",NULL,"63116",0,NULL
+162,"2025-10-03","Google Ads","Won","2025-11-03","63116",1,31
+163,"2025-10-11","Direct Mail","Won","2025-11-09","63119",1,29
+164,"2025-09-25","Google Ads","Lost",NULL,"63119",0,NULL
+165,"2025-01-19","Referrals","Won","2025-02-11","63119",1,23
+166,"2025-05-03","Organic Search","Won","2025-05-23","63122",1,20
+167,"2025-10-02","Direct Mail","Contacted",NULL,"63122",0,NULL
+168,"2025-12-05","Referrals","Won","2025-12-23","63116",1,18
+169,"2025-02-07","Organic Search","Won","2025-03-06","63129",1,27
+170,"2025-06-17","Google Ads","Won","2025-08-01","63119",1,45
+171,"2025-06-09","Google Ads","Estimate Sent",NULL,"63123",0,NULL
+172,"2025-02-16","Google Ads","Lost",NULL,"63119",0,NULL
+173,"2025-08-11","Referrals","Lost",NULL,"63125",0,NULL
+174,"2025-08-28","Google Ads","Won","2025-09-09","63129",1,12
+175,"2025-03-29","Referrals","Won","2025-05-08","63123",1,40
+176,"2025-03-16","Google Ads","Lost",NULL,"63116",0,NULL
+177,"2025-04-20","Google Ads","New",NULL,"63123",0,NULL
+178,"2025-07-05","Direct Mail","New",NULL,"63122",0,NULL
+179,"2025-09-30","Organic Search","Estimate Sent",NULL,"63123",0,NULL
+180,"2025-07-28","Organic Search","Lost",NULL,"63122",0,NULL
+181,"2025-05-15","Referrals","Won","2025-06-20","63125",1,36
+182,"2025-05-16","Referrals","Estimate Sent",NULL,"63116",0,NULL
+183,"2025-01-25","Google Ads","Won","2025-02-22","63119",1,28
+184,"2025-09-17","Google Ads","Estimate Sent",NULL,"63116",0,NULL
+185,"2025-09-28","Google Ads","Estimate Sent",NULL,"63119",0,NULL
+186,"2025-07-29","Referrals","Lost",NULL,"63125",0,NULL
+187,"2025-10-01","Direct Mail","New",NULL,"63129",0,NULL
+188,"2025-06-27","Google Ads","Won","2025-08-01","63125",1,35
+189,"2025-04-30","Direct Mail","New",NULL,"63119",0,NULL
+190,"2025-08-19","Google Ads","Estimate Sent",NULL,"63123",0,NULL
+191,"2025-01-25","Referrals","Contacted",NULL,"63129",0,NULL
+192,"2025-07-15","Direct Mail","Lost",NULL,"63119",0,NULL
+193,"2025-05-22","Direct Mail","Contacted",NULL,"63123",0,NULL
+194,"2025-07-31","Referrals","Won","2025-08-17","63122",1,17
+195,"2025-02-04","Google Ads","Won","2025-02-28","63122",1,24
+196,"2025-08-13","Referrals","Won","2025-09-25","63125",1,43
+197,"2025-06-29","Google Ads","Estimate Sent",NULL,"63123",0,NULL
+198,"2025-10-25","Direct Mail","New",NULL,"63125",0,NULL
+199,"2025-11-01","Organic Search","Estimate Sent",NULL,"63125",0,NULL
+200,"2025-04-05","Google Ads","Lost",NULL,"63129",0,NULL
+201,"2025-07-16","Google Ads","Estimate Sent",NULL,"63119",0,NULL
+202,"2025-12-31","Google Ads","Estimate Sent",NULL,"63125",0,NULL
+203,"2025-12-15","Direct Mail","Lost",NULL,"63129",0,NULL
+204,"2025-09-25","Google Ads","Contacted",NULL,"63116",0,NULL
+205,"2025-10-15","Organic Search","Won","2025-10-30","63125",1,15
+206,"2025-10-27","Google Ads","Won","2025-12-01","63116",1,35
+207,"2025-05-29","Referrals","Won","2025-07-02","63125",1,34
+208,"2025-06-14","Organic Search","Contacted",NULL,"63119",0,NULL
+209,"2025-12-17","Google Ads","Lost",NULL,"63122",0,NULL
+210,"2025-11-29","Referrals","Estimate Sent",NULL,"63122",0,NULL
+211,"2025-01-04","Direct Mail","Lost",NULL,"63123",0,NULL
+212,"2025-01-27","Organic Search","Contacted",NULL,"63116",0,NULL
+213,"2025-06-24","Organic Search","Won","2025-06-30","63129",1,6
+214,"2025-03-15","Referrals","Won","2025-03-31","63122",1,16
+215,"2025-03-31","Google Ads","Lost",NULL,"63116",0,NULL
+216,"2025-04-26","Organic Search","Won","2025-06-09","63125",1,44
+217,"2025-08-17","Google Ads","Won","2025-09-23","63123",1,37
+218,"2025-03-23","Google Ads","Won","2025-03-26","63125",1,3
+219,"2025-11-30","Google Ads","Estimate Sent",NULL,"63122",0,NULL
+220,"2025-11-10","Referrals","Lost",NULL,"63125",0,NULL
+221,"2025-06-29","Google Ads","Contacted",NULL,"63119",0,NULL
+222,"2025-05-19","Google Ads","Estimate Sent",NULL,"63129",0,NULL
+223,"2025-06-01","Organic Search","Contacted",NULL,"63123",0,NULL
+224,"2025-05-03","Organic Search","Won","2025-05-13","63122",1,10
+225,"2025-10-02","Referrals","Won","2025-11-07","63129",1,36
+226,"2025-10-11","Direct Mail","Estimate Sent",NULL,"63116",0,NULL
+227,"2025-06-15","Direct Mail","Contacted",NULL,"63116",0,NULL
+228,"2025-02-12","Organic Search","Estimate Sent",NULL,"63125",0,NULL
+229,"2025-03-30","Google Ads","Lost",NULL,"63122",0,NULL
+230,"2025-02-15","Referrals","Won","2025-02-26","63122",1,11
+231,"2025-04-30","Direct Mail","Lost",NULL,"63119",0,NULL
+232,"2025-07-11","Organic Search","Won","2025-07-29","63129",1,18
+233,"2025-02-15","Google Ads","Lost",NULL,"63129",0,NULL
+234,"2025-09-14","Direct Mail","Contacted",NULL,"63123",0,NULL
+235,"2025-12-24","Referrals","Estimate Sent",NULL,"63123",0,NULL
+236,"2025-07-28","Google Ads","Estimate Sent",NULL,"63123",0,NULL
+237,"2025-01-11","Organic Search","Lost",NULL,"63116",0,NULL
+238,"2025-10-13","Organic Search","Won","2025-11-10","63116",1,28
+239,"2025-05-23","Organic Search","Contacted",NULL,"63125",0,NULL
+240,"2025-08-18","Organic Search","Estimate Sent",NULL,"63129",0,NULL
+241,"2025-12-02","Referrals","Contacted",NULL,"63125",0,NULL
+242,"2025-01-10","Google Ads","New",NULL,"63123",0,NULL
+243,"2025-06-07","Direct Mail","Estimate Sent",NULL,"63119",0,NULL
+244,"2025-02-19","Google Ads","Won","2025-03-12","63125",1,21
+245,"2025-03-20","Referrals","Won","2025-05-01","63129",1,42
+246,"2025-03-20","Direct Mail","Estimate Sent",NULL,"63123",0,NULL
+247,"2025-08-04","Referrals","Lost",NULL,"63123",0,NULL
+248,"2025-03-26","Google Ads","Contacted",NULL,"63119",0,NULL
+249,"2025-12-05","Direct Mail","Contacted",NULL,"63116",0,NULL
+250,"2025-08-19","Referrals","New",NULL,"63123",0,NULL
+251,"2025-12-12","Google Ads","Lost",NULL,"63123",0,NULL
+252,"2025-10-24","Organic Search","Lost",NULL,"63119",0,NULL
+253,"2025-09-20","Organic Search","Lost",NULL,"63119",0,NULL
+254,"2025-06-26","Google Ads","Estimate Sent",NULL,"63119",0,NULL
+255,"2025-10-24","Organic Search","Lost",NULL,"63122",0,NULL
+256,"2025-01-08","Google Ads","Lost",NULL,"63122",0,NULL
+257,"2025-01-27","Referrals","Won","2025-02-10","63122",1,14
+258,"2025-06-22","Referrals","Won","2025-07-27","63129",1,35
+259,"2025-06-30","Google Ads","Estimate Sent",NULL,"63116",0,NULL
+260,"2025-01-05","Google Ads","Lost",NULL,"63125",0,NULL
+261,"2025-10-02","Referrals","Won","2025-10-04","63122",1,2
+262,"2025-02-25","Google Ads","Won","2025-03-17","63122",1,20
+263,"2025-05-24","Google Ads","Lost",NULL,"63116",0,NULL
+264,"2025-11-10","Referrals","Won","2025-11-27","63116",1,17
+265,"2025-11-02","Organic Search","Won","2025-11-24","63122",1,22
+266,"2025-04-06","Organic Search","Lost",NULL,"63129",0,NULL
+267,"2025-09-18","Referrals","Won","2025-10-20","63119",1,32
+268,"2025-09-19","Organic Search","Won","2025-10-25","63123",1,36
+269,"2025-05-25","Google Ads","Lost",NULL,"63125",0,NULL
+270,"2025-01-07","Direct Mail","Contacted",NULL,"63129",0,NULL
+271,"2025-01-28","Organic Search","Contacted",NULL,"63122",0,NULL
+272,"2025-06-19","Google Ads","Lost",NULL,"63123",0,NULL
+273,"2025-11-18","Referrals","Won","2025-12-20","63119",1,32
+274,"2025-04-05","Organic Search","Won","2025-05-09","63116",1,34
+275,"2025-03-27","Referrals","New",NULL,"63129",0,NULL
+276,"2025-09-23","Google Ads","Won","2025-11-07","63125",1,45
+277,"2025-11-22","Referrals","Won","2025-12-10","63119",1,18
+278,"2025-03-17","Direct Mail","Lost",NULL,"63119",0,NULL
+279,"2025-09-15","Google Ads","Contacted",NULL,"63125",0,NULL
+280,"2025-11-23","Referrals","Contacted",NULL,"63116",0,NULL
+281,"2025-07-16","Google Ads","Estimate Sent",NULL,"63122",0,NULL
+282,"2025-03-18","Organic Search","Contacted",NULL,"63129",0,NULL
+283,"2025-12-14","Organic Search","Estimate Sent",NULL,"63122",0,NULL
+284,"2025-03-15","Google Ads","Won","2025-04-15","63123",1,31
+285,"2025-04-09","Google Ads","Lost",NULL,"63129",0,NULL
+286,"2025-08-17","Referrals","Lost",NULL,"63129",0,NULL
+287,"2025-11-30","Organic Search","Lost",NULL,"63122",0,NULL
+288,"2025-05-17","Google Ads","Won","2025-06-02","63123",1,16
+289,"2025-09-25","Referrals","Won","2025-10-09","63125",1,14
+290,"2025-06-30","Google Ads","New",NULL,"63129",0,NULL
+291,"2025-09-04","Organic Search","Won","2025-10-01","63129",1,27
+292,"2025-09-12","Google Ads","Won","2025-10-20","63122",1,38
+293,"2025-01-01","Direct Mail","Won","2025-01-16","63125",1,15
+294,"2025-08-08","Organic Search","Lost",NULL,"63125",0,NULL
+295,"2025-08-17","Organic Search","Contacted",NULL,"63116",0,NULL
+296,"2025-12-27","Referrals","Contacted",NULL,"63123",0,NULL
+297,"2025-07-29","Google Ads","Won","2025-09-05","63119",1,38
+298,"2025-02-08","Google Ads","Won","2025-03-21","63122",1,41
+299,"2025-01-13","Google Ads","Lost",NULL,"63123",0,NULL
+300,"2025-10-01","Direct Mail","Contacted",NULL,"63125",0,NULL
+301,"2025-02-22","Google Ads","Lost",NULL,"63116",0,NULL
+302,"2025-01-24","Referrals","Lost",NULL,"63122",0,NULL
+303,"2025-06-30","Google Ads","Estimate Sent",NULL,"63123",0,NULL
+304,"2025-02-14","Organic Search","Lost",NULL,"63123",0,NULL
+305,"2025-08-30","Google Ads","Estimate Sent",NULL,"63125",0,NULL
+306,"2025-01-21","Google Ads","Lost",NULL,"63116",0,NULL
+307,"2025-05-05","Referrals","Contacted",NULL,"63119",0,NULL
+308,"2025-08-28","Google Ads","New",NULL,"63123",0,NULL
+309,"2025-10-27","Organic Search","Lost",NULL,"63125",0,NULL
+310,"2025-01-27","Google Ads","Won","2025-02-24","63125",1,28
+311,"2025-11-09","Google Ads","New",NULL,"63116",0,NULL
+312,"2025-02-24","Organic Search","Lost",NULL,"63123",0,NULL
+313,"2025-05-01","Google Ads","Estimate Sent",NULL,"63129",0,NULL
+314,"2025-07-06","Referrals","Estimate Sent",NULL,"63119",0,NULL
+315,"2025-03-03","Organic Search","Won","2025-03-18","63123",1,15
+316,"2025-05-08","Referrals","Lost",NULL,"63125",0,NULL
+317,"2025-04-01","Organic Search","Won","2025-04-05","63129",1,4
+318,"2025-05-26","Google Ads","Estimate Sent",NULL,"63125",0,NULL
+319,"2025-03-15","Google Ads","Contacted",NULL,"63129",0,NULL
+320,"2025-08-04","Referrals","Contacted",NULL,"63129",0,NULL
+321,"2025-06-24","Referrals","Won","2025-07-21","63125",1,27
+322,"2025-11-25","Google Ads","New",NULL,"63123",0,NULL
+323,"2025-11-30","Organic Search","Estimate Sent",NULL,"63125",0,NULL
+324,"2025-01-25","Google Ads","Lost",NULL,"63116",0,NULL
+325,"2025-10-09","Direct Mail","New",NULL,"63122",0,NULL
+326,"2025-09-19","Organic Search","Won","2025-10-10","63123",1,21
+327,"2025-07-31","Google Ads","Estimate Sent",NULL,"63125",0,NULL
+328,"2025-02-13","Organic Search","Won","2025-02-23","63119",1,10
+329,"2025-12-21","Google Ads","Estimate Sent",NULL,"63123",0,NULL
+330,"2025-03-18","Referrals","Won","2025-03-23","63123",1,5
+331,"2025-11-23","Google Ads","New",NULL,"63119",0,NULL
+332,"2025-08-10","Organic Search","New",NULL,"63123",0,NULL
+333,"2025-03-31","Organic Search","Lost",NULL,"63129",0,NULL
+334,"2025-01-04","Google Ads","Lost",NULL,"63122",0,NULL
+335,"2025-05-08","Google Ads","Lost",NULL,"63123",0,NULL
+336,"2025-06-27","Organic Search","Lost",NULL,"63116",0,NULL
+337,"2025-12-30","Organic Search","Estimate Sent",NULL,"63116",0,NULL
+338,"2025-07-28","Google Ads","Contacted",NULL,"63122",0,NULL
+339,"2025-10-20","Google Ads","Won","2025-11-20","63119",1,31
+340,"2025-10-25","Google Ads","Lost",NULL,"63125",0,NULL
+341,"2025-11-18","Google Ads","New",NULL,"63122",0,NULL
+342,"2025-06-06","Referrals","Estimate Sent",NULL,"63116",0,NULL
+343,"2025-10-23","Google Ads","Estimate Sent",NULL,"63122",0,NULL
+344,"2025-02-13","Referrals","Won","2025-03-17","63123",1,32
+345,"2025-02-07","Google Ads","Won","2025-03-12","63122",1,33
+346,"2025-09-25","Organic Search","Estimate Sent",NULL,"63116",0,NULL
+347,"2025-08-03","Referrals","Won","2025-09-09","63125",1,37
+348,"2025-09-03","Direct Mail","Estimate Sent",NULL,"63116",0,NULL
+349,"2025-07-13","Organic Search","Estimate Sent",NULL,"63122",0,NULL
+350,"2025-04-28","Organic Search","Lost",NULL,"63122",0,NULL
+351,"2025-03-25","Referrals","Won","2025-04-10","63119",1,16
+352,"2025-10-19","Referrals","Won","2025-11-28","63116",1,40
+353,"2025-09-02","Google Ads","Estimate Sent",NULL,"63125",0,NULL
+354,"2025-07-29","Google Ads","Lost",NULL,"63125",0,NULL
+355,"2025-04-23","Direct Mail","Estimate Sent",NULL,"63119",0,NULL
+356,"2025-07-23","Google Ads","Contacted",NULL,"63123",0,NULL
+357,"2025-11-19","Organic Search","Won","2025-11-24","63119",1,5
+358,"2025-06-08","Referrals","Won","2025-06-12","63119",1,4
+359,"2025-09-18","Organic Search","Won","2025-10-21","63119",1,33
+360,"2025-05-20","Google Ads","Estimate Sent",NULL,"63125",0,NULL
+361,"2025-08-01","Google Ads","Lost",NULL,"63125",0,NULL
+362,"2025-07-05","Google Ads","Won","2025-07-12","63129",1,7
+363,"2025-09-18","Google Ads","Lost",NULL,"63116",0,NULL
+364,"2025-12-14","Organic Search","Lost",NULL,"63116",0,NULL
+365,"2025-05-09","Google Ads","Won","2025-06-02","63122",1,24
+366,"2025-07-29","Direct Mail","Won","2025-08-17","63119",1,19
+367,"2025-07-24","Organic Search","Lost",NULL,"63119",0,NULL
+368,"2025-05-10","Organic Search","Won","2025-05-16","63122",1,6
+369,"2025-10-06","Referrals","Lost",NULL,"63129",0,NULL
+370,"2025-12-05","Direct Mail","Estimate Sent",NULL,"63123",0,NULL
+371,"2025-04-21","Referrals","Lost",NULL,"63116",0,NULL
+372,"2025-04-08","Organic Search","New",NULL,"63129",0,NULL
+373,"2025-03-15","Direct Mail","Lost",NULL,"63129",0,NULL
+374,"2025-07-25","Organic Search","Won","2025-08-21","63119",1,27
+375,"2025-10-03","Organic Search","New",NULL,"63122",0,NULL
+376,"2025-11-11","Google Ads","Won","2025-11-29","63125",1,18
+377,"2025-10-07","Referrals","Won","2025-11-12","63123",1,36
+378,"2025-01-18","Google Ads","Estimate Sent",NULL,"63125",0,NULL
+379,"2025-07-30","Google Ads","Lost",NULL,"63123",0,NULL
+380,"2025-09-20","Google Ads","Lost",NULL,"63119",0,NULL
+381,"2025-08-16","Google Ads","Lost",NULL,"63123",0,NULL
+382,"2025-12-13","Direct Mail","Lost",NULL,"63125",0,NULL
+383,"2025-06-03","Direct Mail","Won","2025-06-07","63119",1,4
+384,"2025-04-05","Google Ads","Contacted",NULL,"63116",0,NULL
+385,"2025-01-25","Direct Mail","Lost",NULL,"63116",0,NULL
+386,"2025-03-09","Google Ads","Lost",NULL,"63119",0,NULL
+387,"2025-07-02","Referrals","Lost",NULL,"63125",0,NULL
+388,"2025-12-31","Referrals","Contacted",NULL,"63123",0,NULL
+389,"2025-09-01","Google Ads","Lost",NULL,"63122",0,NULL
+390,"2025-08-24","Google Ads","Won","2025-09-23","63125",1,30
+391,"2025-05-07","Google Ads","Won","2025-05-27","63116",1,20
+392,"2025-09-29","Google Ads","Contacted",NULL,"63122",0,NULL
+393,"2025-10-01","Organic Search","Estimate Sent",NULL,"63125",0,NULL
+394,"2025-09-16","Organic Search","Estimate Sent",NULL,"63125",0,NULL
+395,"2025-01-05","Direct Mail","Estimate Sent",NULL,"63125",0,NULL
+396,"2025-03-03","Referrals","Won","2025-04-16","63123",1,44
+397,"2025-04-13","Google Ads","Lost",NULL,"63123",0,NULL
+398,"2025-03-16","Organic Search","Contacted",NULL,"63123",0,NULL
+399,"2025-08-10","Google Ads","Lost",NULL,"63125",0,NULL
+400,"2025-01-10","Organic Search","Won","2025-01-12","63122",1,2
+401,"2025-12-03","Referrals","Estimate Sent",NULL,"63125",0,NULL
+402,"2025-06-05","Organic Search","Lost",NULL,"63122",0,NULL
+403,"2025-11-15","Google Ads","Won","2025-12-18","63123",1,33
+404,"2025-02-23","Direct Mail","Contacted",NULL,"63123",0,NULL
+405,"2025-05-20","Referrals","Estimate Sent",NULL,"63116",0,NULL
+406,"2025-03-13","Organic Search","Won","2025-03-21","63122",1,8
+407,"2025-10-26","Organic Search","Estimate Sent",NULL,"63123",0,NULL
+408,"2025-01-04","Direct Mail","Lost",NULL,"63125",0,NULL
+409,"2025-11-05","Google Ads","Estimate Sent",NULL,"63125",0,NULL
+410,"2025-04-10","Organic Search","Lost",NULL,"63125",0,NULL
+411,"2025-04-28","Organic Search","Lost",NULL,"63125",0,NULL
+412,"2025-03-17","Direct Mail","Lost",NULL,"63122",0,NULL
+413,"2025-05-06","Google Ads","Lost",NULL,"63129",0,NULL
+414,"2025-02-20","Direct Mail","Estimate Sent",NULL,"63119",0,NULL
+415,"2025-08-14","Referrals","Won","2025-09-18","63119",1,35
+416,"2025-09-13","Google Ads","Lost",NULL,"63122",0,NULL
+417,"2025-04-27","Referrals","Won","2025-05-11","63122",1,14
+418,"2025-07-15","Google Ads","Lost",NULL,"63123",0,NULL
+419,"2025-04-12","Google Ads","Lost",NULL,"63116",0,NULL
+420,"2025-08-11","Referrals","Won","2025-09-08","63129",1,28
+421,"2025-10-21","Google Ads","Won","2025-11-08","63119",1,18
+422,"2025-09-08","Organic Search","Won","2025-10-23","63122",1,45
+423,"2025-09-08","Referrals","Won","2025-10-03","63129",1,25
+424,"2025-04-11","Google Ads","Won","2025-04-21","63125",1,10
+425,"2025-09-03","Google Ads","Contacted",NULL,"63116",0,NULL
+426,"2025-04-03","Organic Search","Lost",NULL,"63122",0,NULL
+427,"2025-04-14","Direct Mail","Contacted",NULL,"63116",0,NULL
+428,"2025-04-20","Organic Search","Won","2025-05-31","63129",1,41
+429,"2025-05-16","Referrals","Lost",NULL,"63119",0,NULL
+430,"2025-09-04","Google Ads","Contacted",NULL,"63125",0,NULL
+431,"2025-01-23","Direct Mail","Lost",NULL,"63116",0,NULL
+432,"2025-04-22","Google Ads","Won","2025-05-18","63116",1,26
+433,"2025-11-22","Google Ads","Estimate Sent",NULL,"63119",0,NULL
+434,"2025-11-25","Referrals","New",NULL,"63122",0,NULL
+435,"2025-03-15","Google Ads","Won","2025-04-21","63125",1,37
+436,"2025-01-12","Direct Mail","Estimate Sent",NULL,"63116",0,NULL
+437,"2025-12-21","Google Ads","Lost",NULL,"63129",0,NULL
+438,"2025-05-15","Google Ads","Estimate Sent",NULL,"63123",0,NULL
+439,"2025-03-18","Google Ads","Won","2025-03-27","63123",1,9
+440,"2025-08-31","Google Ads","Estimate Sent",NULL,"63116",0,NULL
+441,"2025-08-03","Direct Mail","New",NULL,"63129",0,NULL
+442,"2025-11-09","Google Ads","Won","2025-11-19","63123",1,10
+443,"2025-04-27","Referrals","Won","2025-06-11","63125",1,45
+444,"2025-04-22","Organic Search","New",NULL,"63125",0,NULL
+445,"2025-01-07","Referrals","Won","2025-01-20","63116",1,13
+446,"2025-11-23","Google Ads","Won","2025-11-25","63119",1,2
+447,"2025-11-16","Google Ads","Won","2025-12-16","63129",1,30
+448,"2025-10-18","Direct Mail","New",NULL,"63122",0,NULL
+449,"2025-05-10","Direct Mail","New",NULL,"63125",0,NULL
+450,"2025-08-27","Direct Mail","Estimate Sent",NULL,"63125",0,NULL
+451,"2025-05-11","Referrals","Won","2025-05-29","63116",1,18
+452,"2025-03-31","Organic Search","Estimate Sent",NULL,"63119",0,NULL
+453,"2025-03-16","Organic Search","Won","2025-04-16","63119",1,31
+454,"2025-11-24","Google Ads","Estimate Sent",NULL,"63123",0,NULL
+455,"2025-01-13","Google Ads","Won","2025-02-27","63123",1,45
+456,"2025-08-15","Google Ads","Won","2025-09-08","63123",1,24
+457,"2025-01-25","Referrals","Estimate Sent",NULL,"63119",0,NULL
+458,"2025-08-13","Referrals","Lost",NULL,"63116",0,NULL
+459,"2025-04-13","Referrals","New",NULL,"63129",0,NULL
+460,"2025-10-30","Google Ads","Won","2025-12-01","63123",1,32
+461,"2025-01-08","Referrals","Won","2025-02-14","63129",1,37
+462,"2025-09-16","Direct Mail","Lost",NULL,"63119",0,NULL
+463,"2025-06-28","Google Ads","Won","2025-07-23","63129",1,25
+464,"2025-02-25","Direct Mail","Won","2025-03-24","63116",1,27
+465,"2025-10-16","Organic Search","Won","2025-11-18","63119",1,33
+466,"2025-03-07","Organic Search","Won","2025-03-26","63119",1,19
+467,"2025-06-04","Referrals","Won","2025-07-10","63119",1,36
+468,"2025-05-09","Google Ads","Won","2025-05-13","63122",1,4
+469,"2025-04-16","Referrals","New",NULL,"63129",0,NULL
+470,"2025-09-17","Direct Mail","New",NULL,"63123",0,NULL
+471,"2025-06-03","Referrals","Won","2025-06-15","63129",1,12
+472,"2025-12-04","Referrals","Won","2025-12-24","63129",1,20
+473,"2025-02-13","Referrals","Lost",NULL,"63125",0,NULL
+474,"2025-10-27","Organic Search","Contacted",NULL,"63122",0,NULL
+475,"2025-04-14","Google Ads","New",NULL,"63129",0,NULL
+476,"2025-02-10","Organic Search","Contacted",NULL,"63125",0,NULL
+477,"2025-09-05","Organic Search","Estimate Sent",NULL,"63116",0,NULL
+478,"2025-06-30","Google Ads","Contacted",NULL,"63116",0,NULL
+479,"2025-03-31","Organic Search","Won","2025-04-20","63116",1,20
+480,"2025-11-28","Organic Search","Estimate Sent",NULL,"63123",0,NULL
+481,"2025-01-16","Referrals","Contacted",NULL,"63129",0,NULL
+482,"2025-11-20","Organic Search","New",NULL,"63123",0,NULL
+483,"2025-12-09","Google Ads","Lost",NULL,"63119",0,NULL
+484,"2025-01-25","Referrals","New",NULL,"63116",0,NULL
+485,"2025-06-28","Referrals","Estimate Sent",NULL,"63116",0,NULL
+486,"2025-12-21","Google Ads","Estimate Sent",NULL,"63129",0,NULL
+487,"2025-11-23","Direct Mail","Won","2025-12-28","63125",1,35
+488,"2025-01-31","Google Ads","Lost",NULL,"63123",0,NULL
+489,"2025-08-26","Organic Search","New",NULL,"63123",0,NULL
+490,"2025-01-25","Organic Search","Won","2025-02-22","63119",1,28
+491,"2025-04-22","Referrals","New",NULL,"63122",0,NULL
+492,"2025-04-26","Organic Search","Lost",NULL,"63116",0,NULL
+493,"2025-05-17","Referrals","Won","2025-05-23","63125",1,6
+494,"2025-08-24","Organic Search","Lost",NULL,"63129",0,NULL
+495,"2025-07-11","Organic Search","Contacted",NULL,"63119",0,NULL
+496,"2025-04-07","Google Ads","Estimate Sent",NULL,"63119",0,NULL
+497,"2025-11-11","Organic Search","Won","2025-12-04","63122",1,23
+498,"2025-07-22","Direct Mail","New",NULL,"63125",0,NULL
+499,"2025-06-05","Organic Search","Won","2025-06-11","63123",1,6
+500,"2025-06-16","Organic Search","Contacted",NULL,"63119",0,NULL
+501,"2025-09-17","Google Ads","Lost",NULL,"63119",0,NULL
+502,"2025-09-16","Google Ads","Contacted",NULL,"63122",0,NULL
+503,"2025-02-24","Google Ads","Lost",NULL,"63129",0,NULL
+504,"2025-02-28","Referrals","Won","2025-03-13","63123",1,13
+505,"2025-04-30","Organic Search","Contacted",NULL,"63123",0,NULL
+506,"2025-09-04","Referrals","Lost",NULL,"63129",0,NULL
+507,"2025-08-13","Referrals","Won","2025-09-14","63123",1,32
+508,"2025-01-01","Google Ads","Contacted",NULL,"63116",0,NULL
+509,"2025-12-11","Referrals","Estimate Sent",NULL,"63122",0,NULL
+510,"2025-11-04","Organic Search","Lost",NULL,"63116",0,NULL
+511,"2025-04-08","Google Ads","Estimate Sent",NULL,"63123",0,NULL
+512,"2025-08-30","Referrals","Won","2025-09-01","63125",1,2
+513,"2025-04-27","Google Ads","Won","2025-05-18","63125",1,21
+514,"2025-01-28","Organic Search","Won","2025-02-12","63125",1,15
+515,"2025-04-03","Organic Search","Won","2025-05-07","63116",1,34
+516,"2025-10-02","Organic Search","Lost",NULL,"63122",0,NULL
+517,"2025-09-06","Google Ads","Lost",NULL,"63122",0,NULL
+518,"2025-09-06","Organic Search","Contacted",NULL,"63129",0,NULL
+519,"2025-04-21","Google Ads","New",NULL,"63116",0,NULL
+520,"2025-10-31","Referrals","Won","2025-11-08","63123",1,8
+521,"2025-09-01","Organic Search","Contacted",NULL,"63123",0,NULL
+522,"2025-02-24","Direct Mail","Lost",NULL,"63125",0,NULL
+523,"2025-10-18","Google Ads","Estimate Sent",NULL,"63122",0,NULL
+524,"2025-06-12","Organic Search","Estimate Sent",NULL,"63125",0,NULL
+525,"2025-12-28","Google Ads","Estimate Sent",NULL,"63129",0,NULL
+526,"2025-11-28","Google Ads","Lost",NULL,"63123",0,NULL
+527,"2025-07-09","Organic Search","New",NULL,"63129",0,NULL
+528,"2025-03-30","Organic Search","Lost",NULL,"63116",0,NULL
+529,"2025-03-01","Google Ads","Lost",NULL,"63122",0,NULL
+530,"2025-07-12","Direct Mail","Estimate Sent",NULL,"63119",0,NULL
+531,"2025-06-18","Organic Search","Estimate Sent",NULL,"63119",0,NULL
+532,"2025-08-26","Organic Search","Won","2025-09-18","63116",1,23
+533,"2025-02-20","Google Ads","Estimate Sent",NULL,"63123",0,NULL
+534,"2025-10-03","Organic Search","Lost",NULL,"63129",0,NULL
+535,"2025-04-05","Direct Mail","Won","2025-04-07","63123",1,2
+536,"2025-02-11","Direct Mail","Lost",NULL,"63122",0,NULL
+537,"2025-06-01","Referrals","Won","2025-06-27","63129",1,26
+538,"2025-08-13","Google Ads","New",NULL,"63129",0,NULL
+539,"2025-07-21","Referrals","Won","2025-08-27","63122",1,37
+540,"2025-08-01","Referrals","Won","2025-08-05","63123",1,4
+541,"2025-11-21","Google Ads","Estimate Sent",NULL,"63122",0,NULL
+542,"2025-03-29","Organic Search","Estimate Sent",NULL,"63123",0,NULL
+543,"2025-04-10","Direct Mail","Lost",NULL,"63125",0,NULL
+544,"2025-08-11","Referrals","Won","2025-09-13","63125",1,33
+545,"2025-03-23","Organic Search","Lost",NULL,"63119",0,NULL
+546,"2025-12-27","Organic Search","Contacted",NULL,"63122",0,NULL
+547,"2025-09-13","Google Ads","Won","2025-10-24","63119",1,41
+548,"2025-11-24","Direct Mail","Won","2025-11-26","63125",1,2
+549,"2025-12-26","Google Ads","Estimate Sent",NULL,"63116",0,NULL
+550,"2025-11-11","Referrals","Lost",NULL,"63125",0,NULL
+551,"2025-11-18","Google Ads","Won","2025-12-29","63119",1,41
+552,"2025-07-20","Organic Search","Won","2025-07-23","63125",1,3
+553,"2025-04-30","Referrals","Won","2025-06-07","63119",1,38
+554,"2025-08-14","Direct Mail","Estimate Sent",NULL,"63116",0,NULL
+555,"2025-06-17","Referrals","Won","2025-07-07","63122",1,20
+556,"2025-10-17","Referrals","Won","2025-11-16","63122",1,30
+557,"2025-11-14","Google Ads","Estimate Sent",NULL,"63125",0,NULL
+558,"2025-11-07","Direct Mail","New",NULL,"63125",0,NULL
+559,"2025-02-27","Direct Mail","Lost",NULL,"63123",0,NULL
+560,"2025-07-19","Referrals","Lost",NULL,"63125",0,NULL
+561,"2025-04-16","Organic Search","Won","2025-05-26","63123",1,40
+562,"2025-02-28","Google Ads","Contacted",NULL,"63116",0,NULL
+563,"2025-03-07","Organic Search","Lost",NULL,"63129",0,NULL
+564,"2025-09-03","Referrals","Lost",NULL,"63123",0,NULL
+565,"2025-01-28","Direct Mail","Estimate Sent",NULL,"63119",0,NULL
+566,"2025-07-07","Referrals","Won","2025-08-02","63125",1,26
+567,"2025-02-13","Referrals","Won","2025-03-14","63119",1,29
+568,"2025-05-23","Google Ads","Won","2025-06-05","63129",1,13
+569,"2025-05-06","Organic Search","Won","2025-05-16","63119",1,10
+570,"2025-07-02","Google Ads","Contacted",NULL,"63129",0,NULL
+571,"2025-07-27","Referrals","Estimate Sent",NULL,"63116",0,NULL
+572,"2025-03-05","Google Ads","Estimate Sent",NULL,"63129",0,NULL
+573,"2025-05-18","Google Ads","Lost",NULL,"63129",0,NULL
+574,"2025-07-25","Referrals","Lost",NULL,"63116",0,NULL
+575,"2025-10-24","Organic Search","Estimate Sent",NULL,"63122",0,NULL
+576,"2025-11-17","Google Ads","Estimate Sent",NULL,"63122",0,NULL
+577,"2025-12-24","Organic Search","Lost",NULL,"63116",0,NULL
+578,"2025-03-24","Google Ads","Lost",NULL,"63116",0,NULL
+579,"2025-05-07","Google Ads","Estimate Sent",NULL,"63129",0,NULL
+580,"2025-04-26","Referrals","Lost",NULL,"63122",0,NULL
+581,"2025-05-02","Google Ads","Lost",NULL,"63119",0,NULL
+582,"2025-03-04","Organic Search","New",NULL,"63125",0,NULL
+583,"2025-04-13","Referrals","Estimate Sent",NULL,"63116",0,NULL
+584,"2025-10-08","Organic Search","Estimate Sent",NULL,"63129",0,NULL
+585,"2025-05-21","Google Ads","Won","2025-05-28","63129",1,7
+586,"2025-10-12","Google Ads","Estimate Sent",NULL,"63119",0,NULL
+587,"2025-01-16","Organic Search","Lost",NULL,"63123",0,NULL
+588,"2025-05-11","Organic Search","Estimate Sent",NULL,"63116",0,NULL
+589,"2025-04-07","Organic Search","Lost",NULL,"63129",0,NULL
+590,"2025-06-25","Google Ads","Lost",NULL,"63122",0,NULL
+591,"2025-08-07","Organic Search","Won","2025-09-21","63129",1,45
+592,"2025-12-06","Google Ads","Won","2025-12-15","63123",1,9
+593,"2025-10-26","Google Ads","Won","2025-11-05","63123",1,10
+594,"2025-11-29","Organic Search","New",NULL,"63122",0,NULL
+595,"2025-06-04","Direct Mail","Lost",NULL,"63119",0,NULL
+596,"2025-01-16","Organic Search","Lost",NULL,"63125",0,NULL
+597,"2025-06-25","Google Ads","Lost",NULL,"63123",0,NULL
+598,"2025-02-08","Referrals","Won","2025-02-21","63116",1,13
+599,"2025-08-22","Google Ads","Won","2025-09-12","63116",1,21
+600,"2025-04-28","Direct Mail","Lost",NULL,"63123",0,NULL
+601,"2025-12-05","Google Ads","Contacted",NULL,"63123",0,NULL
+602,"2025-07-12","Referrals","Contacted",NULL,"63116",0,NULL
+603,"2025-12-27","Referrals","Contacted",NULL,"63125",0,NULL
+604,"2025-11-26","Organic Search","Won","2025-12-31","63119",1,35
+605,"2025-06-06","Google Ads","Won","2025-07-18","63122",1,42
+606,"2025-10-10","Google Ads","Contacted",NULL,"63119",0,NULL
+607,"2025-07-04","Google Ads","Won","2025-07-26","63119",1,22
+608,"2025-01-31","Referrals","Won","2025-02-25","63123",1,25
+609,"2025-06-06","Organic Search","Won","2025-06-30","63116",1,24
+610,"2025-07-09","Direct Mail","New",NULL,"63122",0,NULL
+611,"2025-06-23","Referrals","Lost",NULL,"63123",0,NULL
+612,"2025-03-24","Google Ads","Lost",NULL,"63129",0,NULL
+613,"2025-03-06","Referrals","New",NULL,"63123",0,NULL
+614,"2025-02-16","Organic Search","Lost",NULL,"63123",0,NULL
+615,"2025-04-08","Organic Search","Won","2025-05-05","63125",1,27
+616,"2025-11-09","Organic Search","Won","2025-12-10","63122",1,31
+617,"2025-05-06","Google Ads","Won","2025-05-30","63116",1,24
+618,"2025-09-19","Direct Mail","New",NULL,"63123",0,NULL
+619,"2025-03-13","Referrals","Won","2025-04-27","63116",1,45
+620,"2025-02-11","Referrals","Estimate Sent",NULL,"63123",0,NULL
+621,"2025-01-20","Organic Search","Contacted",NULL,"63123",0,NULL
+622,"2025-06-13","Organic Search","Won","2025-06-24","63119",1,11
+623,"2025-08-19","Google Ads","Won","2025-10-01","63116",1,43
+624,"2025-07-25","Referrals","Won","2025-08-22","63122",1,28
+625,"2025-11-26","Referrals","Won","2025-12-19","63122",1,23
+626,"2025-11-27","Organic Search","Won","2025-12-25","63122",1,28
+627,"2025-01-11","Google Ads","Lost",NULL,"63129",0,NULL
+628,"2025-11-25","Direct Mail","Lost",NULL,"63129",0,NULL
+629,"2025-03-11","Referrals","Lost",NULL,"63122",0,NULL
+630,"2025-11-18","Google Ads","Lost",NULL,"63122",0,NULL
+631,"2025-12-16","Google Ads","Lost",NULL,"63116",0,NULL
+632,"2025-02-10","Direct Mail","Estimate Sent",NULL,"63119",0,NULL
+633,"2025-09-20","Google Ads","Estimate Sent",NULL,"63122",0,NULL
+634,"2025-02-22","Direct Mail","Estimate Sent",NULL,"63119",0,NULL
+635,"2025-06-17","Organic Search","Contacted",NULL,"63116",0,NULL
+636,"2025-09-09","Direct Mail","Lost",NULL,"63125",0,NULL
+637,"2025-06-27","Direct Mail","Lost",NULL,"63125",0,NULL
+638,"2025-05-10","Organic Search","Won","2025-05-16","63129",1,6
+639,"2025-05-15","Referrals","New",NULL,"63125",0,NULL
+640,"2025-02-25","Organic Search","Estimate Sent",NULL,"63122",0,NULL
+641,"2025-04-02","Google Ads","Contacted",NULL,"63129",0,NULL
+642,"2025-11-08","Google Ads","Won","2025-11-14","63129",1,6
+643,"2025-12-03","Organic Search","Won","2025-12-21","63129",1,18
+644,"2025-05-07","Organic Search","Won","2025-06-03","63125",1,27
+645,"2025-06-07","Organic Search","Lost",NULL,"63129",0,NULL
+646,"2025-04-04","Google Ads","Won","2025-05-05","63119",1,31
+647,"2025-01-03","Google Ads","Won","2025-01-08","63122",1,5
+648,"2025-02-09","Google Ads","Lost",NULL,"63129",0,NULL
+649,"2025-06-03","Organic Search","Estimate Sent",NULL,"63122",0,NULL
+650,"2025-11-05","Google Ads","Contacted",NULL,"63123",0,NULL
+651,"2025-02-15","Organic Search","Estimate Sent",NULL,"63125",0,NULL
+652,"2025-03-15","Referrals","Won","2025-04-08","63129",1,24
+653,"2025-07-23","Google Ads","Contacted",NULL,"63125",0,NULL
+654,"2025-02-27","Referrals","Won","2025-03-02","63123",1,3
+655,"2025-06-28","Direct Mail","Lost",NULL,"63122",0,NULL
+656,"2025-06-12","Organic Search","Lost",NULL,"63116",0,NULL
+657,"2025-01-18","Referrals","Won","2025-02-20","63119",1,33
+658,"2025-08-10","Organic Search","Won","2025-09-17","63119",1,38
+659,"2025-11-05","Google Ads","Lost",NULL,"63129",0,NULL
+660,"2025-06-24","Direct Mail","Lost",NULL,"63129",0,NULL
+661,"2025-07-02","Google Ads","Contacted",NULL,"63116",0,NULL
+662,"2025-03-07","Google Ads","Lost",NULL,"63119",0,NULL
+663,"2025-06-22","Referrals","Lost",NULL,"63119",0,NULL
+664,"2025-05-02","Google Ads","Lost",NULL,"63119",0,NULL
+665,"2025-02-17","Direct Mail","Won","2025-02-28","63129",1,11
+666,"2025-05-18","Direct Mail","New",NULL,"63122",0,NULL
+667,"2025-06-26","Google Ads","Contacted",NULL,"63119",0,NULL
+668,"2025-01-16","Google Ads","Lost",NULL,"63122",0,NULL
+669,"2025-10-01","Referrals","Lost",NULL,"63119",0,NULL
+670,"2025-05-02","Google Ads","New",NULL,"63125",0,NULL
+671,"2025-09-04","Google Ads","Contacted",NULL,"63129",0,NULL
+672,"2025-05-06","Organic Search","Lost",NULL,"63122",0,NULL
+673,"2025-08-23","Referrals","Lost",NULL,"63116",0,NULL
+674,"2025-07-09","Referrals","Contacted",NULL,"63125",0,NULL
+675,"2025-06-17","Google Ads","Contacted",NULL,"63129",0,NULL
+676,"2025-03-23","Referrals","New",NULL,"63119",0,NULL
+677,"2025-12-10","Organic Search","New",NULL,"63122",0,NULL
+678,"2025-06-15","Google Ads","Estimate Sent",NULL,"63125",0,NULL
+679,"2025-03-12","Organic Search","Estimate Sent",NULL,"63129",0,NULL
+680,"2025-02-12","Google Ads","Lost",NULL,"63123",0,NULL
+681,"2025-07-20","Organic Search","Contacted",NULL,"63123",0,NULL
+682,"2025-03-22","Referrals","Won","2025-03-31","63123",1,9
+683,"2025-03-18","Direct Mail","Estimate Sent",NULL,"63129",0,NULL
+684,"2025-04-03","Google Ads","Lost",NULL,"63116",0,NULL
+685,"2025-11-27","Google Ads","Estimate Sent",NULL,"63129",0,NULL
+686,"2025-12-28","Google Ads","Lost",NULL,"63129",0,NULL
+687,"2025-05-05","Organic Search","Won","2025-06-16","63116",1,42
+688,"2025-02-01","Direct Mail","Won","2025-03-17","63129",1,44
+689,"2025-08-10","Direct Mail","Won","2025-08-23","63129",1,13
+690,"2025-07-08","Referrals","Won","2025-08-03","63129",1,26
+691,"2025-11-01","Organic Search","Lost",NULL,"63119",0,NULL
+692,"2025-01-26","Organic Search","Contacted",NULL,"63116",0,NULL
+693,"2025-04-22","Direct Mail","Won","2025-04-29","63116",1,7
+694,"2025-12-12","Referrals","Contacted",NULL,"63123",0,NULL
+695,"2025-11-17","Referrals","Lost",NULL,"63122",0,NULL
+696,"2025-04-28","Direct Mail","Lost",NULL,"63123",0,NULL
+697,"2025-01-02","Organic Search","Contacted",NULL,"63119",0,NULL
+698,"2025-04-29","Direct Mail","Won","2025-05-15","63125",1,16
+699,"2025-09-24","Google Ads","Won","2025-10-01","63123",1,7
+700,"2025-08-14","Referrals","Won","2025-08-27","63119",1,13
+701,"2025-12-23","Google Ads","Lost",NULL,"63122",0,NULL
+702,"2025-03-15","Organic Search","Contacted",NULL,"63119",0,NULL
+703,"2025-04-28","Google Ads","Lost",NULL,"63129",0,NULL
+704,"2025-08-24","Google Ads","Won","2025-09-30","63123",1,37
+705,"2025-08-09","Direct Mail","Lost",NULL,"63129",0,NULL
+706,"2025-08-19","Organic Search","Estimate Sent",NULL,"63122",0,NULL
+707,"2025-07-19","Referrals","Won","2025-07-26","63123",1,7
+708,"2025-02-03","Referrals","Contacted",NULL,"63122",0,NULL
+709,"2025-07-15","Google Ads","Estimate Sent",NULL,"63125",0,NULL
+710,"2025-03-08","Referrals","Won","2025-03-11","63125",1,3
+711,"2025-10-23","Direct Mail","Lost",NULL,"63129",0,NULL
+712,"2025-02-14","Google Ads","Lost",NULL,"63122",0,NULL
+713,"2025-05-30","Referrals","Won","2025-06-17","63119",1,18
+714,"2025-01-13","Google Ads","Lost",NULL,"63123",0,NULL
+715,"2025-07-27","Referrals","Won","2025-08-10","63123",1,14
+716,"2025-06-05","Google Ads","Lost",NULL,"63129",0,NULL
+717,"2025-05-31","Organic Search","Lost",NULL,"63122",0,NULL
+718,"2025-04-06","Google Ads","Contacted",NULL,"63123",0,NULL
+719,"2025-04-03","Google Ads","Contacted",NULL,"63116",0,NULL
+720,"2025-06-07","Google Ads","Won","2025-06-19","63123",1,12
+721,"2025-08-12","Organic Search","Won","2025-08-28","63116",1,16
+722,"2025-09-29","Google Ads","Won","2025-10-08","63125",1,9
+723,"2025-10-12","Organic Search","Estimate Sent",NULL,"63125",0,NULL
+724,"2025-08-03","Google Ads","Won","2025-08-11","63122",1,8
+725,"2025-08-17","Direct Mail","Estimate Sent",NULL,"63122",0,NULL
+726,"2025-06-21","Referrals","Lost",NULL,"63122",0,NULL
+727,"2025-10-28","Organic Search","Contacted",NULL,"63129",0,NULL
+728,"2025-10-02","Referrals","Contacted",NULL,"63129",0,NULL
+729,"2025-06-30","Google Ads","Estimate Sent",NULL,"63123",0,NULL
+730,"2025-09-07","Organic Search","Lost",NULL,"63129",0,NULL
+731,"2025-02-27","Organic Search","Contacted",NULL,"63123",0,NULL
+732,"2025-02-18","Direct Mail","Won","2025-03-27","63116",1,37
+733,"2025-09-11","Direct Mail","Contacted",NULL,"63123",0,NULL
+734,"2025-01-22","Organic Search","Won","2025-02-12","63123",1,21
+735,"2025-06-15","Referrals","Won","2025-07-05","63116",1,20
+736,"2025-07-02","Direct Mail","Lost",NULL,"63125",0,NULL
+737,"2025-05-29","Direct Mail","Contacted",NULL,"63125",0,NULL
+738,"2025-01-21","Google Ads","Contacted",NULL,"63123",0,NULL
+739,"2025-02-02","Referrals","Won","2025-02-18","63122",1,16
+740,"2025-05-19","Referrals","Won","2025-06-26","63122",1,38
+741,"2025-09-12","Organic Search","Contacted",NULL,"63122",0,NULL
+742,"2025-09-27","Google Ads","Lost",NULL,"63123",0,NULL
+743,"2025-09-24","Google Ads","Estimate Sent",NULL,"63123",0,NULL
+744,"2025-03-02","Direct Mail","Lost",NULL,"63116",0,NULL
+745,"2025-11-06","Organic Search","Lost",NULL,"63125",0,NULL
+746,"2025-10-23","Referrals","Lost",NULL,"63125",0,NULL
+747,"2025-09-07","Google Ads","Lost",NULL,"63119",0,NULL
+748,"2025-08-08","Organic Search","Lost",NULL,"63123",0,NULL
+749,"2025-07-01","Direct Mail","Won","2025-07-18","63116",1,17
+750,"2025-05-02","Referrals","Won","2025-06-05","63125",1,34
+751,"2025-12-09","Organic Search","Lost",NULL,"63116",0,NULL
+752,"2025-09-08","Google Ads","New",NULL,"63119",0,NULL
+753,"2025-06-27","Google Ads","New",NULL,"63123",0,NULL
+754,"2025-12-15","Direct Mail","Lost",NULL,"63123",0,NULL
+755,"2025-06-01","Organic Search","Estimate Sent",NULL,"63129",0,NULL
+756,"2025-12-24","Google Ads","Estimate Sent",NULL,"63122",0,NULL
+757,"2025-05-22","Google Ads","Lost",NULL,"63122",0,NULL
+758,"2025-03-22","Referrals","Contacted",NULL,"63125",0,NULL
+759,"2025-10-30","Referrals","Contacted",NULL,"63125",0,NULL
+760,"2025-02-13","Google Ads","Estimate Sent",NULL,"63123",0,NULL
+761,"2025-01-31","Referrals","Won","2025-02-07","63119",1,7
+762,"2025-09-25","Organic Search","Won","2025-09-27","63125",1,2
+763,"2025-07-07","Organic Search","Won","2025-07-31","63125",1,24
+764,"2025-06-04","Referrals","Won","2025-07-04","63116",1,30
+765,"2025-12-04","Referrals","Lost",NULL,"63125",0,NULL
+766,"2025-03-24","Referrals","New",NULL,"63123",0,NULL
+767,"2025-09-30","Referrals","Won","2025-11-01","63129",1,32
+768,"2025-08-31","Organic Search","Lost",NULL,"63116",0,NULL
+769,"2025-06-07","Referrals","Contacted",NULL,"63122",0,NULL
+770,"2025-02-13","Google Ads","Contacted",NULL,"63123",0,NULL
+771,"2025-11-19","Google Ads","Contacted",NULL,"63123",0,NULL
+772,"2025-12-26","Direct Mail","Contacted",NULL,"63116",0,NULL
+773,"2025-07-24","Referrals","Estimate Sent",NULL,"63125",0,NULL
+774,"2025-01-20","Direct Mail","Contacted",NULL,"63122",0,NULL
+775,"2025-03-06","Referrals","Won","2025-04-12","63123",1,37
+776,"2025-06-08","Organic Search","Lost",NULL,"63122",0,NULL
+777,"2025-05-12","Referrals","Estimate Sent",NULL,"63119",0,NULL
+778,"2025-02-19","Organic Search","Contacted",NULL,"63122",0,NULL
+779,"2025-07-01","Google Ads","Contacted",NULL,"63119",0,NULL
+780,"2025-03-11","Organic Search","Won","2025-04-15","63116",1,35
+781,"2025-07-29","Google Ads","Lost",NULL,"63116",0,NULL
+782,"2025-01-06","Referrals","Won","2025-01-30","63123",1,24
+783,"2025-09-11","Direct Mail","Contacted",NULL,"63116",0,NULL
+784,"2025-02-21","Referrals","Won","2025-03-17","63116",1,24
+785,"2025-04-03","Organic Search","Won","2025-04-20","63119",1,17
+786,"2025-09-20","Organic Search","Won","2025-10-22","63129",1,32
+787,"2025-06-24","Organic Search","Won","2025-07-27","63119",1,33
+788,"2025-07-02","Organic Search","Lost",NULL,"63125",0,NULL
+789,"2025-07-08","Google Ads","Lost",NULL,"63125",0,NULL
+790,"2025-09-25","Google Ads","Estimate Sent",NULL,"63119",0,NULL
+791,"2025-11-27","Google Ads","Won","2025-12-19","63122",1,22
+792,"2025-03-30","Google Ads","Lost",NULL,"63129",0,NULL
+793,"2025-12-02","Organic Search","Lost",NULL,"63125",0,NULL
+794,"2025-03-27","Direct Mail","Contacted",NULL,"63125",0,NULL
+795,"2025-01-22","Referrals","Won","2025-02-07","63122",1,16
+796,"2025-09-14","Google Ads","Won","2025-10-24","63129",1,40
+797,"2025-12-29","Organic Search","Lost",NULL,"63122",0,NULL
+798,"2025-11-14","Google Ads","New",NULL,"63125",0,NULL
+799,"2025-07-27","Organic Search","Contacted",NULL,"63122",0,NULL
+800,"2025-09-09","Google Ads","Contacted",NULL,"63129",0,NULL
